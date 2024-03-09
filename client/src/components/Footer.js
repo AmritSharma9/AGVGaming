@@ -68,7 +68,7 @@ function Footer() {
               
             </Link>
           </div>
-          <small class='website-rights'>AGV © 2021</small>
+          <small class='website-rights'>AGV © 2024</small>
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'
