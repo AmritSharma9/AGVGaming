@@ -12,13 +12,13 @@ function Cards() {
             <CardItem
               src='images/img-9.jpg'
               text='A product is a tangible item that is put on the market'
-              label='2021/1/5'
+              label='2024/1/5'
               path='/products'
             />
             <CardItem
               src='images/img-2.jpg'
               text=' tangible item that is put on the market'
-              label='2021/1/23'
+              label='2024/1/23'
               path='/products'
             />
           </ul>
@@ -26,19 +26,19 @@ function Cards() {
             <CardItem
               src='images/img-3.jpg'
               text=' tangible item that is put on the market'
-              label='2021/1/23'
+              label='2024/1/23'
               path='/products'
             />
             <CardItem
               src='images/img-4.jpg'
               text=' tangible item that is put on the market'
-              label='2021/1/23'
+              label='2024/1/23'
               path='/products'
             />
             <CardItem
               src='images/img-8.jpg'
               text=' tangible item that is put on the market'
-              label='2021/1/23'
+              label='2024/1/23'
               path='/sign-up'
             />
           </ul>
